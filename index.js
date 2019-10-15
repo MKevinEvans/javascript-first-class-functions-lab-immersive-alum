@@ -3,6 +3,6 @@ function countdown(callback){
 }
 
 function createMultiplier(multiplyerValue){
-  switch:
+  switch(multiplyerValue)
   
 }
