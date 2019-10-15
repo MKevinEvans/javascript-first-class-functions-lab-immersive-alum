@@ -13,5 +13,5 @@ function multiplier(x, y){
   return x*y;
 }
 
-let doublerWithBind = multipier.bind(doubler)
-let triplerWithBind = multipier.bind(tripler)
+function doublerWithBind = multipier.bind(doubler)
+function triplerWithBind = multipier.bind(tripler)
