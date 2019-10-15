@@ -9,7 +9,7 @@ function createMultiplier(multiplyerValue){
 let doubler = createMultiplier(2);
 let tripler = createMultiplier(3);
 
-function multipier(x, y){
+function multiplier(x, y){
   return x*y;
 }
 
